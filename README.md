@@ -35,7 +35,8 @@ Number of Columns:
 
 # -Team Members
 
-Members|Entry No| Role
+Members|Entry No| Role|
+|---|---|---|
 Vyshnavi|2026ESB1489| Documentation Lead
 Amogh Chavan|2026AIB1008| Execution Lead
 Livteshwar Singh Sandhu|2026MCB1526| PPT Lead
