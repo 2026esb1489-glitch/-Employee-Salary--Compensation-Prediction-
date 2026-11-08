@@ -39,7 +39,7 @@ Members|Entry No| Role|
 |---|---|---|
 Vyshnavi|2026ESB1489| Documentation Lead
 Amogh Chavan|2026AIB1008| Execution Lead
-Livteshwar Singh Sandhu|2026MCB1526| PPT Lead
+Livteshwar Singh Sandhu|2026MCB1538| PPT Lead
 Kshitiz Kumar|2026EEB1369| Video Lead
 
 # -Project Structure
