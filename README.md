@@ -21,9 +21,9 @@ The model uses employee-related attributes to estimate annual salary.
 
 Dataset Source: 
 
-Number of Rows: 
+Number of Rows:93597 
 
-Number of Columns: 
+Number of Columns: 11
 
 # -Technologies Used
 
