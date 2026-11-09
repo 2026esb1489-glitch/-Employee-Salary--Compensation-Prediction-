@@ -92,16 +92,16 @@ Open `AI Project Commit-1.ipynb` and execute the notebook cells sequentially.
 - Salary predictions
 - Model evaluation metrics
 - Actual vs Predicted Salary visualization
+  
 # Project Structure
-
 
 The project is organized into different files to make the work easier to understand and manage.
 
-- "README.md" – Contains the project introduction, objectives, dataset details, and team information.
-- "DataScience_salaries_2025.csv" – contains the employee salary dataset used for the project.
-- "AI Project Commit-1.ipynb" – Jupyter Notebook used for data analysis and model development.
+- `README.md` – Contains the project introduction, objectives, dataset details, and team information.
+- `DataScience_salaries_2025.csv` – Contains the employee salary dataset used for the project.
+- `AI Project Commit-1.ipynb` – Jupyter Notebook used for data analysis and model development.
 - `requirements.txt` – Lists the Python libraries required to run the project.
-Additional files related to model execution, analysis, and results will be included as the project progresses.
+
 # Results
 
 The project focuses on predicting employee salaries using Multiple Linear Regression. The dataset was explored and preprocessed to prepare it for model training.
@@ -114,7 +114,7 @@ An Actual vs Predicted Salary graph will also be used to compare the predicted s
 
 The final evaluation results and observations will be added after completing the model execution.
 
-Presentation and Video
+# Presentation and Video
 
 PPT Link: To be added
 
