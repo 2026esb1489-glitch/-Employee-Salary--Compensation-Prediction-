@@ -1,4 +1,4 @@
-# Employee-Salary--Compensation-Prediction-
+# Employee Salary and Compensation Prediction
 AI101 Project - Employee Salary and Compensation Prediction Using Multiple Linear Regression
 
 # Project Description
@@ -18,9 +18,9 @@ The model uses employee-related attributes to estimate annual salary.
 
 # Dataset
 
-Dataset Source: 
+Dataset Source: [Kaggle – Latest Data Science Job Salaries 2024](https://www.kaggle.com/datasets/saurabhbadole/latest-data-science-job-salaries-2024)
 
-Number of Rows:93597 
+Number of Rows: 93,597
 
 Number of Columns: 11
 
@@ -34,12 +34,12 @@ Number of Columns: 11
 
 # Team Members
 
-Members|Entry No| Role|
+| Member Name | Entry Number | Role |
 |---|---|---|
-Vyshnavi|2026ESB1489| Documentation Lead
-Amogh Chavan|2026AIB1008| Execution Lead
-Livteshwar Singh Sandhu|2026MCB1538| PPT Lead
-Kshitiz Kumar|2026EEB1369| Video Lead
+|Puthineedi Vyshnavi|2026ESB1489| Documentation Lead|
+|Amogh Chavan|2026AIB1008| Execution Lead|
+|Livteshwar Singh Sandhu|2026MCB1538| PPT Lead|
+|Kshitiz Kumar|2026EEB1369| Video Lead|
 ## Setup and Execution
 
 ### Prerequisites
@@ -98,13 +98,21 @@ Open `AI Project Commit-1.ipynb` and execute the notebook cells sequentially.
 The project is organized into different files to make the work easier to understand and manage.
 
 - "README.md" – Contains the project introduction, objectives, dataset details, and team information.
-- "DataScience_salaries_2025.csv" –It contains the employee salary dataset used for the project.
+- "DataScience_salaries_2025.csv" – contains the employee salary dataset used for the project.
 - "AI Project Commit-1.ipynb" – Jupyter Notebook used for data analysis and model development.
-
+- `requirements.txt` – Lists the Python libraries required to run the project.
 Additional files related to model execution, analysis, and results will be included as the project progresses.
 # Results
 
-To be updated after model execution.
+The project focuses on predicting employee salaries using Multiple Linear Regression. The dataset was explored and preprocessed to prepare it for model training.
+
+The model uses factors such as work experience, employment type, job title, company location, and company size to estimate employee salaries.
+
+After training and testing the model, its performance will be evaluated using Mean Absolute Error (MAE), Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and R² Score.
+
+An Actual vs Predicted Salary graph will also be used to compare the predicted salaries with the actual salary values.
+
+The final evaluation results and observations will be added after completing the model execution.
 
 Presentation and Video
 
