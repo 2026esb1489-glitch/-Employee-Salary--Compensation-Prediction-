@@ -42,7 +42,7 @@ Livteshwar Singh Sandhu|2026MCB1538| PPT Lead
 Kshitiz Kumar|2026EEB1369| Video Lead
 
 # Project Structure
-Project Structure
+
 
 The project is organized into different files to make the work easier to understand and manage.
 
