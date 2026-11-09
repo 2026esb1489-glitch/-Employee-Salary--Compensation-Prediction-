@@ -1,13 +1,13 @@
-# -Employee-Salary--Compensation-Prediction-
+# Employee-Salary--Compensation-Prediction-
 AI101 Project - Employee Salary and Compensation Prediction Using Multiple Linear Regression
 
-# -Project Description
+# Project Description
 
 This AI101 project aims to predict employee salaries using Multiple Linear Regression, a supervised machine learning algorithm.
 
 The model uses employee-related attributes to estimate annual salary.
 
-# -Objectives
+# Objectives
 
 - Understand Multiple Linear Regression.
 - Collect and clean employee salary data.
@@ -16,7 +16,7 @@ The model uses employee-related attributes to estimate annual salary.
 - Predict employee salaries.
 - Evaluate model performance.
 
-# -Dataset
+# Dataset
 
 Dataset Source: 
 
@@ -24,7 +24,7 @@ Number of Rows:93597
 
 Number of Columns: 11
 
-# -Technologies Used
+# Technologies Used
 
 - Python
 - Pandas
@@ -32,7 +32,7 @@ Number of Columns: 11
 - Matplotlib
 - Scikit-learn
 
-# -Team Members
+# Team Members
 
 Members|Entry No| Role|
 |---|---|---|
@@ -41,11 +41,17 @@ Amogh Chavan|2026AIB1008| Execution Lead
 Livteshwar Singh Sandhu|2026MCB1538| PPT Lead
 Kshitiz Kumar|2026EEB1369| Video Lead
 
-# -Project Structure
+# Project Structure
+Project Structure
 
-To be updated after project files are finalized.
+The project is organized into different files to make the work easier to understand and manage.
 
-# -Results
+- "README.md" – Contains the project introduction, objectives, dataset details, and team information.
+- "DataScience_salaries_2025.csv" –It contains the employee salary dataset used for the project.
+- "AI Project Commit-1.ipynb" – Jupyter Notebook used for data analysis and model development.
+
+Additional files related to model execution, analysis, and results will be included as the project progresses.
+# Results
 
 To be updated after model execution.
 
