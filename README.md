@@ -1,6 +1,57 @@
 # Employee-Salary--Compensation-Prediction-
 AI101 Project - Employee Salary and Compensation Prediction Using Multiple Linear Regression
+## Setup and Execution
 
+### Prerequisites
+- Python installed
+- Git installed
+- Jupyter Notebook
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/2026esb1489-glitch/Employee-Salary--Compensation-Prediction-.git
+cd Employee-Salary--Compensation-Prediction-
+```
+
+### 2. Create a Virtual Environment
+
+For Windows:
+
+```bash
+python -m venv venv
+venv\Scripts\activate
+```
+
+For macOS/Linux:
+
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
+
+### 3. Install Required Libraries
+
+```bash
+python -m pip install -r requirements.txt
+```
+
+### 4. Run the Jupyter Notebook
+
+```bash
+jupyter notebook
+```
+
+Open `AI Project Commit-1.ipynb` and execute the notebook cells sequentially.
+
+### Expected Output
+
+- Dataset loading and exploration
+- Data preprocessing
+- Multiple Linear Regression model training
+- Salary predictions
+- Model evaluation metrics
+- Actual vs Predicted Salary visualization
 # Project Description
 
 This AI101 project aims to predict employee salaries using Multiple Linear Regression, a supervised machine learning algorithm.
