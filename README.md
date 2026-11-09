@@ -61,6 +61,8 @@ PPT Link: To be added
 
 Video Link: To be added
 
-AI-Use Disclosure
-
-ChatGPT was used to assist with understanding the project and preparing initial practice code
+   
+## AI-use disclosure
+    
+    ChatGPT was used to assist with understanding the project and preparing initial practice code
+    Claude: helped write the train/test split, evaluation and plot cells; we ran and checked the output.
