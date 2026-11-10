@@ -112,7 +112,7 @@ After training and testing the model, its performance will be evaluated using Me
 
 An Actual vs Predicted Salary graph will also be used to compare the predicted salaries with the actual salary values.
 
-The final evaluation results and observations will be added after completing the model execution.
+the project demonstrates the application of Multiple Linear Regression in predicting employee salaries using multiple employment-related factors.
 
 # Presentation and Video
 
