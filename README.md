@@ -1,3 +1,4 @@
+<img width="760" height="717" alt="image" src="https://github.com/user-attachments/assets/ecfd6a35-3af2-45ba-8eea-5bd454b14e29" />
 # Employee Salary and Compensation Prediction
 AI101 Project - Employee Salary and Compensation Prediction Using Multiple Linear Regression
 
@@ -130,12 +131,15 @@ A Confusion Matrix was also generated to compare the actual and predicted salary
 Two visualizations were created using Matplotlib:
 
 1. **Actual vs Predicted Salary Graph** – compares the actual salary values with the predicted salary values.
-2. **Confusion Matrix** – shows how correctly the model classified salaries into Low and High categories.
    
    <img width="838" height="642" alt="image" src="https://github.com/user-attachments/assets/b53df084-ef11-4e61-b6da-171663373ca2" />
-
+   
+2. **Confusion Matrix** – shows how correctly the model classified salaries into Low and High categories.
+   
+<img width="760" height="717" alt="image" src="https://github.com/user-attachments/assets/ed5e3d6a-7974-4054-8a5e-dba82638dc5d" />
 
 These results help us understand the prediction performance and classification results of our model.
+
 # Presentation and Video
 
 PPT Link: To be added
