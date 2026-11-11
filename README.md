@@ -1,4 +1,4 @@
-<img width="760" height="717" alt="image" src="https://github.com/user-attachments/assets/ecfd6a35-3af2-45ba-8eea-5bd454b14e29" />
+
 # Employee Salary and Compensation Prediction
 AI101 Project - Employee Salary and Compensation Prediction Using Multiple Linear Regression
 
