@@ -149,7 +149,7 @@ Video Link: To be added
    
 ## AI-use disclosure
     
-    ChatGPT was used to assist with understanding the project and preparing initial practice code
+    ChatGPT was used to assist with understanding the project 
     Claude: helped write the train/test split, evaluation and plot cells; we ran and checked the output.
     The PPT was made by the PPT lead but cleaned up by Claude in features such as approach slide steps
 
