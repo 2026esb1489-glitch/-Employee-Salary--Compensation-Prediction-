@@ -25,6 +25,8 @@ Number of Rows: 93,597
 
 Number of Columns: 11
 
+46,637 rows remained after removing duplicates
+
 # Technologies Used
 
 - Python
@@ -37,8 +39,8 @@ Number of Columns: 11
 
 | Member Name | Entry Number | Role |
 |---|---|---|
-|Puthineedi Vyshnavi|2026ESB1489| Documentation Lead|
 |Amogh Chavan|2026AIB1008| Execution Lead|
+|Puthineedi Vyshnavi|2026ESB1489| Documentation Lead|
 |Livteshwar Singh Sandhu|2026MCB1538| PPT Lead|
 |Kshitiz Kumar|2026EEB1369| Video Lead|
 ## Setup and Execution
@@ -81,11 +83,6 @@ python -m pip install ipykernel
 
 ### 5. Register Jupyter kernel
 python -m ipykernel install --user --name my_test --display-name "TEST”
-
-
-and add this
-
-
 
 Open `AI Project Commit-1.ipynb` and execute the notebook cells sequentially.
 
@@ -139,13 +136,6 @@ Two visualizations were created using Matplotlib:
 <img width="760" height="717" alt="image" src="https://github.com/user-attachments/assets/ed5e3d6a-7974-4054-8a5e-dba82638dc5d" />
 
 These results help us understand the prediction performance and classification results of our model.
-
-# Presentation and Video
-
-PPT Link: To be added
-
-Video Link: To be added
-
    
 ## AI-use disclosure
     
