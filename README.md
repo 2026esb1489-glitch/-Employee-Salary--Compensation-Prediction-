@@ -75,12 +75,16 @@ source venv/bin/activate
 ```bash
 python -m pip install -r requirements.txt
 ```
+### 4. Install ipykernel
+python -m pip install ipykernel
 
-### 4. Run the Jupyter Notebook
+### 5. Register Jupyter kernel
+python -m ipykernel install --user --name my_test --display-name "TEST”
 
-```bash
-jupyter notebook
-```
+
+and add this
+
+
 
 Open `AI Project Commit-1.ipynb` and execute the notebook cells sequentially.
 
@@ -106,13 +110,12 @@ The project is organized into different files to make the work easier to underst
 
 The project focuses on predicting employee salaries using Multiple Linear Regression. The dataset was explored and preprocessed to prepare it for model training.
 
-The model uses factors such as work experience, employment type, job title, company location, and company size to estimate employee salaries.
+After training and testing the model, we evaluated its performance using R² Score, Mean Absolute Error (MAE), and Mean Squared Error (MSE).
 
-After training and testing the model, its performance will be evaluated using Mean Absolute Error (MAE), Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and R² Score.
+We also created an Actual vs Predicted Salary graph using Matplotlib to compare the predicted salaries with the actual salary values.
 
-An Actual vs Predicted Salary graph will also be used to compare the predicted salaries with the actual salary values.
+The results show how Multiple Linear Regression can be used for salary prediction. The model's performance can be improved further with better data preprocessing and feature selection.
 
-the project demonstrates the application of Multiple Linear Regression in predicting employee salaries using multiple employment-related factors.
 
 # Presentation and Video
 
