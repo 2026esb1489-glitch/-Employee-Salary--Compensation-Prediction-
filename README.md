@@ -151,3 +151,5 @@ Video Link: To be added
     
     ChatGPT was used to assist with understanding the project and preparing initial practice code
     Claude: helped write the train/test split, evaluation and plot cells; we ran and checked the output.
+    The PPT was made by the PPT lead but cleaned up by Claude in features such as approach slide steps
+
