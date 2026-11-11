@@ -108,15 +108,31 @@ The project is organized into different files to make the work easier to underst
 
 # Results
 
-The project focuses on predicting employee salaries using Multiple Linear Regression. The dataset was explored and preprocessed to prepare it for model training.
+The Multiple Linear Regression model was trained and tested to predict employee salaries based on different factors.
 
-After training and testing the model, we evaluated its performance using R² Score, Mean Absolute Error (MAE), and Mean Squared Error (MSE).
+The model performance was evaluated using the following metrics:
 
-We also created an Actual vs Predicted Salary graph using Matplotlib to compare the predicted salaries with the actual salary values.
+- **R² Score:** 0.23
+- **Mean Absolute Error (MAE):** 49,468.06
+- **Mean Squared Error (MSE):** 4,527,186,769.05
 
-The results show how Multiple Linear Regression can be used for salary prediction. The model's performance can be improved further with better data preprocessing and feature selection.
+The model also classified salaries into two categories: Low Salary and High Salary, using the median training salary as the threshold.
 
+For classification evaluation, we calculated:
 
+- Accuracy
+- Precision
+- Recall
+- F1 Score
+
+A Confusion Matrix was also generated to compare the actual and predicted salary categories.
+
+Two visualizations were created using Matplotlib:
+
+1. **Actual vs Predicted Salary Graph** – compares the actual salary values with the predicted salary values.
+2. **Confusion Matrix** – shows how correctly the model classified salaries into Low and High categories.
+
+These results help us understand the prediction performance and classification results of our model.
 # Presentation and Video
 
 PPT Link: To be added
