@@ -136,7 +136,11 @@ Two visualizations were created using Matplotlib:
 <img width="760" height="717" alt="image" src="https://github.com/user-attachments/assets/ed5e3d6a-7974-4054-8a5e-dba82638dc5d" />
 
 These results help us understand the prediction performance and classification results of our model.
-   
+
+##Presentation
+
+vedio link:https://drive.google.com/drive/folders/1Xg1Lpv6WQ33LHZZCQzrz-JloL1w5Mjep
+
 ## AI-use disclosure
     
     ChatGPT was used to assist with understanding the project 
