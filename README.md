@@ -131,6 +131,8 @@ Two visualizations were created using Matplotlib:
 
 1. **Actual vs Predicted Salary Graph** – compares the actual salary values with the predicted salary values.
 2. **Confusion Matrix** – shows how correctly the model classified salaries into Low and High categories.
+   <img width="838" height="642" alt="image" src="https://github.com/user-attachments/assets/b53df084-ef11-4e61-b6da-171663373ca2" />
+
 
 These results help us understand the prediction performance and classification results of our model.
 # Presentation and Video
